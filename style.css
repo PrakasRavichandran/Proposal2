@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+    background: black; 
+    
+}
+
+.love{
+    width: 50px;
+}
+.welcome{
+    min-height: 50vh;
+    justify-content: center;
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: orange;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
